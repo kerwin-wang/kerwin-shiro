@@ -9,4 +9,7 @@ package com.kerwin.shiro;
  */
 public class Shiro
 {
+    public void getShiro(){
+        System.out.println("shiro test");
+    }
 }
